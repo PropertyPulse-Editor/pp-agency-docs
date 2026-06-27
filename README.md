@@ -43,7 +43,7 @@ The site is GitHub Pages compatible because all links are relative and all pages
 - Website: https://proppuls.in/
 - Email: editor.propertypulse@gmail.com
 - Phone: +91 9030034591
-- Address: 2C 1202, SMR Vinay City, Miyapur, Hyderabad - 500049, India
+- Address: 201, Second Floor, ARs Sidhya Nilayam, Kakatiya Hills Road No 9, Hyderabad, Telangana
 - Editor: K Johnson
 
 ## Ownership and License
